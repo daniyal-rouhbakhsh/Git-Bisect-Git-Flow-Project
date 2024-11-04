@@ -6,3 +6,5 @@ formBtn?.addEventListener('click',e => {
 })
 
 const isLogin:string = "User"
+
+const registerFeatuer:string = "Register"
