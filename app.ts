@@ -1,5 +1,6 @@
-let isLogin:boolean
+const mainForm = document.querySelector('#main-form')
+const formBtn = document.querySelector('#form-btn')
 
-isLogin = false
-
-console.log(isLogin)
+formBtn?.addEventListener('click',e => {
+    e.preventDefault()
+})
