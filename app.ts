@@ -8,3 +8,5 @@ formBtn?.addEventListener('click',e => {
 const isLogin:string = "User"
 
 const registerFeatuer:string = "Register"
+
+const getMeApi:any = 1234
